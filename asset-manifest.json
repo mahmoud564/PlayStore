@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PlayStore/static/css/main.52ca076c.css",
+    "main.js": "/PlayStore/static/js/main.6da226bb.js",
+    "static/js/787.6a541d2d.chunk.js": "/PlayStore/static/js/787.6a541d2d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/PlayStore/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/paladins.png": "/PlayStore/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.0fddd1fbe0a5e0a0af93.png",
+    "static/media/register-login-banner.jpg": "/PlayStore/static/media/register-login-banner.d5751ff804c935b205d3.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/PlayStore/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo.png": "/PlayStore/static/media/logo.548dc5719c2345c22eef.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/PlayStore/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/PlayStore/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/PlayStore/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/PlayStore/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/PlayStore/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/PlayStore/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/PlayStore/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/PlayStore/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/PlayStore/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/PlayStore/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/PlayStore/index.html",
+    "main.52ca076c.css.map": "/PlayStore/static/css/main.52ca076c.css.map",
+    "main.6da226bb.js.map": "/PlayStore/static/js/main.6da226bb.js.map",
+    "787.6a541d2d.chunk.js.map": "/PlayStore/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca076c.css",
+    "static/js/main.6da226bb.js"
+  ]
+}
